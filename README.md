@@ -8,7 +8,7 @@ A simple social network template with login system built with PHP Codeigniters f
  - Once done you would then have to load or import the database file to your server.
  - At this point the application should work with no problem # Note that this application was built using PHP CodeIgniter's Framework you    would need to have atleast basis knowledge of the framework.
  - Once run the application has already been compiled therefore unless you install the reequired dependencies, it would not be advisable      for you to compile webpack.
- - If you follow the steps all should be well you can then logging to the app with email: (mbugeraldjunior@gmail.com) and password            (123456)
+ - If you follow the steps all should be well you can then logging to the app but before its prefered you signup first if not use email:      user@mail.com and password 12345.
 
 # Requirement
 1 - Foundation 6.3.1 CSS Framework
