@@ -1,6 +1,9 @@
 # socialnetworktemplate
 A simple social network template with login system built with PHP Codeigniter as framework and NodeJS. Webpack was equally use to compile projects JavaScript and CSS, with Foundation 6.3.1 as Front end UI and MySQL as database. Before you begin using the project there are a few look ups to address. There is going to be the need for installing Foundation Zurb 6.3.1, considering you would want to make changes to the project.
 
+# Purpose
+ This fragment of social network is built purposefully for further production to help developers, to create social media faster without having to start from scratch, this including user Authentication.
+
 # Usage
  - Download the zip file
  - Extract the zip file in your wamp, xamp or any php server of your choice. (PHP 7)
